@@ -1,4 +1,4 @@
-# Oneshot-Ai
+# Oneshot-AI
 jupyter notebook of ai that generate oneshot dialog
 
 # Try it out
